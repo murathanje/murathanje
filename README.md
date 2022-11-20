@@ -1,5 +1,5 @@
 <h1 align=center>Hi there 👋, I'm Murathan Kağan</h1>
-<h3 align=center>I am a web3 developer and learner for new ethernet world!</h3>      
+<h3 align=center>I am a web3 developer and learner for new internet world!</h3>      
 
 <div align="center">
     <a href="blank">
