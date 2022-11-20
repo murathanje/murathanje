@@ -1,5 +1,11 @@
 <h1 align=center>Hi there 👋, I'm Murathan Kağan</h1>
-<h3 align=center>I am a web3 developer and learner for new ethernet world!</h3>                                         
+<h3 align=center>I am a web3 developer and learner for new ethernet world!</h3>      
+
+<div align="center">
+    <a href="blank">
+        <img src="https://s3.eu-central-1.amazonaws.com/curaze-web-prod/photos/shares/WEB3-WEB2.0-WEB1.0.png"/>
+    </a> 
+</div>
 
 In this [GitHub account](https://github.com/murathanje), I will share my learning process and the bugs I encountered. You can also request support and edits for the code you want.
 
