@@ -42,5 +42,5 @@ In this [GitHub account](https://github.com/murathanje), I will share my learnin
 
 <h3>🗂️ PORJECT</h3>   
 
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=murathanje&repo=Java&theme=dark)](https://github.com/murathanje/Java)[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=murathanje&repo=Solidity&theme=dark)](https://github.com/murathanje/Solidity)
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=murathanje&repo=Solana-Dev&theme=dark)](https://github.com/murathanje/Java)[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=murathanje&repo=Solidity&theme=dark)](https://github.com/murathanje/Solidity)
 
