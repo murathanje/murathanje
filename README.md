@@ -40,9 +40,6 @@ In this [GitHub account](https://github.com/murathanje), I will share my learnin
 
 </p>
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=murathanje)  
-
 <h3>🗂️ PORJECT</h3>   
 
 [![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=murathanje&repo=Java&theme=dark)](https://github.com/murathanje/Java)[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=murathanje&repo=Solidity&theme=dark)](https://github.com/murathanje/Solidity)
