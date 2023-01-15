@@ -14,7 +14,7 @@ In this [GitHub account](https://github.com/murathanje), I will share my learnin
 - 🌱 I’m currently learning [Solidity](https://docs.soliditylang.org/en/v0.8.17/) - [Rust](https://www.rust-lang.org/) - [Java](https://www.java.com/tr/) - [Node.js](https://nodejs.org/) - [Javascript](https://www.javascript.com/)
 - 💬 Ask me about: C / Python / Solidity / Java / Javascript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/murathan-kagan/) -
-[Mail](murathankagan13@gmail.com)
+[Mail](mailto:murathankagan13@gmail.com)
 
 
 <h3>📫Social Media</h3>   
