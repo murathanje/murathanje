@@ -27,8 +27,8 @@ In this [GitHub account](https://github.com/murathanje), I will share my learnin
 
 <div align="center">
     <a href="https://github.com/murathanje">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murathanje&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murathanje&layout=compact&langs_count=7&theme=dark"/>
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=murathanje&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=murathanje&layout=compact&langs_count=7&theme=dark"/>
         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murathanje&theme=dark"/>
     </a> 
 </div>
@@ -42,5 +42,5 @@ In this [GitHub account](https://github.com/murathanje), I will share my learnin
 
 <h3>🗂️ PORJECT</h3>   
 
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=murathanje&repo=Solana-Dev&theme=dark)](https://github.com/murathanje/Solana-Dev)[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=murathanje&repo=Solidity&theme=dark)](https://github.com/murathanje/Solidity)
+[![ReadMe Kartı](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=murathanje&repo=Solana-Dev&theme=dark)](https://github.com/murathanje/Solana-Dev)[![ReadMe Kartı](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=murathanje&repo=Solidity&theme=dark)](https://github.com/murathanje/Solidity)
 
