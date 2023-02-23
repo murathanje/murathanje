@@ -19,7 +19,7 @@ In this [GitHub account](https://github.com/murathanje), I will share my learnin
 
 <h3>📫Social Media</h3>   
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/murathan-kagan/)             [<img src='https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg' alt='instagram' height='40'>](https://www.instagram.com/murathan.je/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/800px-Twitter-logo.svg.png' alt='twitter' height='40'>](https://twitter.com/muarthanje)  
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/murathan-kagan/)             [<img src='https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg' alt='instagram' height='40'>](https://www.instagram.com/murathan.je/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/800px-Twitter-logo.svg.png' alt='twitter' height='40'>](https://twitter.com/murathanje)  
 
 <h3>🔧 Technologies</h3>   
 
