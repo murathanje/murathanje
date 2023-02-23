@@ -9,10 +9,10 @@
 
 In this [GitHub account](https://github.com/murathanje), I will share my learning process and the bugs I encountered. You can also request support and edits for the code you want.
 
-### Skills: C / Java / Javascript / Solidity / OOP / Python 
+### Skills: C / Javascript / Solidity / OOP / Data Structures
 
-- 🌱 I’m currently learning [Solidity](https://docs.soliditylang.org/en/v0.8.17/) - [Rust](https://www.rust-lang.org/) - [Java](https://www.java.com/tr/) - [Node.js](https://nodejs.org/) - [Javascript](https://www.javascript.com/)
-- 💬 Ask me about: C / Python / Solidity / Java / Javascript
+- 🌱 I’m currently learning [Solidity](https://docs.soliditylang.org/en/v0.8.17/) - [Rust](https://www.rust-lang.org/) - [React](https://reactjs.org/) - [Node.js](https://nodejs.org/) - [Javascript](https://www.javascript.com/) - [Flutter](https://flutter.dev/)
+- 💬 Ask me about: C / Solidity / Javascript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/murathan-kagan/) -
 [Mail](mailto:murathankagan13@gmail.com)
 
