@@ -41,5 +41,5 @@ In this [GitHub account](https://github.com/murathanje), I will share my learnin
 
 <h3>🗂️ PORJECT</h3>   
 
-[![ReadMe Kartı](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=murathanje&repo=Solana-Dev&theme=dark)](https://github.com/murathanje/Solana-Dev)[![ReadMe Kartı](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=murathanje&repo=Solidity&theme=dark)](https://github.com/murathanje/Solidity)
+[![ReadMe Kartı](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=murathanje&repo=Bus-Ticket-App&theme=dark)](https://github.com/murathanje/Bus-Ticket-App)[![ReadMe Kartı](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=murathanje&repo=Solidity&theme=dark)](https://github.com/murathanje/Solidity)
 
