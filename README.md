@@ -9,7 +9,7 @@
 
 In this [GitHub account](https://github.com/murathanje), I will share my learning process and the bugs I encountered. You can also request support and edits for the code you want.
 
-### Skills: Javascript / Solidity / Dapps / DeFi / NFTs / MERN Stack / Rust 
+### Skills: Javascript / Solidity / Dapps / DeFi / NFTs / MERN Stack / Rust / Move / Motoko
 
 - 🌱 I’m currently learning [Solidity](https://docs.soliditylang.org/en/v0.8.17/) - [Rust](https://www.rust-lang.org/) - [React](https://reactjs.org/) - [Node.js](https://nodejs.org/) - [Javascript](https://www.javascript.com/)
 - 💬 Ask me about: C / Solidity / Javascript
