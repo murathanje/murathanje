@@ -42,6 +42,6 @@ In this [GitHub account](https://github.com/murathanje), I will share my learnin
 <h3>🗂️ PORJECT</h3>   
 
 [![ReadMe Kartı](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=murathanje&repo=Bus-Ticket-App&theme=dark)](https://github.com/murathanje/Bus-Ticket-App) [![ReadMe Kartı](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=murathanje&repo=Chain-Prices&theme=dark)](https://github.com/murathanje/Chain-Prices) 
-[![ReadMe Kartı](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=murathanje&repo=Promtopia-Next.js&theme=dark)](https://github.com/murathanje/Promtopia-Next.js)
+[![ReadMe Kartı](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=murathanje&repo=Promtopia-Next.js&theme=dark)](https://github.com/murathanje/Promtopia-Next.js) [![ReadMe Kartı](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=murathanje&repo=BB-Token-and-NFT&theme=dark)](https://github.com/murathanje/BB-Token-and-NFT)
 
 
